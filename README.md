@@ -26,11 +26,9 @@ Sistem ini berfokus pada alur *Request-Response* tanpa database, di mana data id
 
 ### 3. Halaman Pengelolaan Stok
 *Menampilkan daftar data inventaris komoditas pertanian yang dirender secara dinamis dari Controller.*
-![Halaman Pengelolaan Stok](public/screenshots/pengelolaan.png)
 
 ### 4. Halaman Profil
 *Menampilkan detail informasi pengguna dan status hak akses sistem.*
-![Halaman Profil](public/screenshots/profile.png)
 
 ---
 
